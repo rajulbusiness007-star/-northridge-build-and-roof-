@@ -1,0 +1,6 @@
+{
+  "name": "Apex Crest Roofing & Restoration",
+  "description": "Commercial and residential roofing specialists delivering precision roof installations, storm damage restoration, and certified 21-point roof inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
